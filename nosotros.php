@@ -20,9 +20,18 @@
                     ¡Bienvenido a nuestra casa de humo, sabor y tradición!
                 </blockquote>
 
-                <p>En Ahumados Bottger, no solo vendemos carne ahumada, vivimos y respiramos el arte del ahumado. Hemos dedicado nuestra pasión y tradición familiar a seleccionar los mejores cortes y ahumarlos con maderas naturales, logrando un sabor profundo, auténtico e inconfundible que deleita a nuestros clientes en cada bocado.</p>
+                <p>Ahumados Bottger es un emprendimiento familiar de Puerto Maldonado, Madre de Dios, especializado en carnes ahumadas artesanales de alta calidad, selladas al vacío para conservar todo su sabor y frescura.
+                Ofrecemos costilla, lomo, chorizo ahumado y más, elaborados con recetas tradicionales y un cuidadoso proceso de ahumado que resalta los auténticos sabores de la Amazonía.
+                Trabajamos con ingredientes frescos y pasión por el detalle, para llevar a tu mesa un producto único y delicioso.</p>
 
-                <p>Creemos que un buen ahumado puede transformar cualquier momento: desde una reunión familiar hasta una tarde de antojo. Por eso, nos esforzamos cada día en mantener la calidad, el sabor artesanal y la calidez en cada producto que preparamos con dedicación.</p>
+                <p>Actualmente recibimos pedidos por WhatsApp y realizamos entregas a domicilio en toda la ciudad.
+                Sabemos que la calidad no basta: por eso estamos dando un gran paso hacia la modernización con nuestra nueva tienda en línea.</p>
+
+                <p>Pronto podrás explorar el catálogo completo, armar tu pedido en minutos, seguir el estado de tu envío y disfrutar de una experiencia de compra mucho más cómoda y confiable.
+                En Ahumados Bottger combinamos la tradición del ahumado artesanal con la comodidad que mereces.
+                Porque un buen sabor merece llegar perfecto y sin complicaciones.
+                ¡Prepárate para descubrir el verdadero sabor ahumado de Puerto Maldonado!
+                Bienvenidos a la nueva forma de disfrutar Ahumados Bottger.</p>
             </div>
         </div>
     </main>
