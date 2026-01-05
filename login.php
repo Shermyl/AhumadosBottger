@@ -1,5 +1,7 @@
 <?php 
 
+    
+
     require 'includes/config/database.php';
     $db = conectarDB();
     // Autenticar el usuario
