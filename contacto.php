@@ -1,6 +1,6 @@
 <?php 
-
     // Procesar el formulario si se envía
+
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         require_once 'includes/config/database.php';
         $db = conectarDB();
@@ -12,10 +12,14 @@
         $telefono = mysqli_real_escape_string($db, $_POST['telefono']);
 
         // Validaciones básicas
+        
         if (!$producto_id || !$cantidad || !$nombre || !$email || !$telefono) {
             $error = "Todos los campos son obligatorios";
         } else {
-            // Insertar en la base de datos
+            
+            // Insertar en la base de datos 
+            
+            
             $query = "INSERT INTO pedidos (producto_id, cantidad, nombre_cliente, email, telefono) VALUES ('$producto_id', '$cantidad', '$nombre', '$email', '$telefono')";
             
             if (mysqli_query($db, $query)) {
@@ -27,12 +31,9 @@
         mysqli_close($db);
     }
 
-
-
-
     require 'includes/funciones.php';
     
-    // Obtener productos para el select
+    // Obtener productos para el boton select en la BD
     require 'includes/config/database.php';
     $db = conectarDB();
     $resultado = mysqli_query($db, "SELECT id, nombreProducto, precio FROM productos");
@@ -97,7 +98,7 @@
             <input type="time" name="hora" id="hora" min="09:00" max="18:00" required>
         </fieldset>
 
-        <input type="submit" value="Enviar Pedido" class="boton-verde">
+        <input type="submit" value="Enviar Pedido" class="boton-verde"> 
     </form>
 </main>
 
