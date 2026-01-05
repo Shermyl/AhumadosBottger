@@ -21,13 +21,13 @@
                 </blockquote>
 
                 <p>Ahumados Bottger es un emprendimiento familiar de Puerto Maldonado, Madre de Dios, especializado en carnes ahumadas artesanales de alta calidad, selladas al vacío para conservar todo su sabor y frescura.
-                Ofrecemos costilla, lomo, chorizo ahumado y más, elaborados con recetas tradicionales y un cuidadoso proceso de ahumado que resalta los auténticos sabores de la Amazonía.
+                Ofrecemos costilla, lomo, chorizo ahumado, manteca de cerdo y más, elaborados con nuestras recetas  tradicionales y un cuidadoso proceso de ahumado que resalta los auténticos sabores de la Amazonía Peruana.
                 Trabajamos con ingredientes frescos y pasión por el detalle, para llevar a tu mesa un producto único y delicioso.</p>
 
                 <p>Actualmente recibimos pedidos por WhatsApp y realizamos entregas a domicilio en toda la ciudad.
                 Sabemos que la calidad no basta: por eso estamos dando un gran paso hacia la modernización con nuestra nueva tienda en línea.</p>
 
-                <p>Pronto podrás explorar el catálogo completo, armar tu pedido en minutos, seguir el estado de tu envío y disfrutar de una experiencia de compra mucho más cómoda y confiable.
+                <p>Donde podrás explorar el catálogo completo, armar tu pedido en minutos, seguir el estado de tu envío y disfrutar de una experiencia de compra mucho más cómoda y confiable.
                 En Ahumados Bottger combinamos la tradición del ahumado artesanal con la comodidad que mereces.
                 Porque un buen sabor merece llegar perfecto y sin complicaciones.
                 ¡Prepárate para descubrir el verdadero sabor ahumado de Puerto Maldonado!
